@@ -1,0 +1,27 @@
+{
+  "name": "files-and-folders-server",
+  "version": "0.0.3",
+  "description": "Server Component for File commander (files-and-folders)",
+  "keywords": [
+    "FnF",
+    "file commander",
+    "copy",
+    "delete",
+    "rename",
+    "group"
+  ],
+  "author": {
+    "name": "Marc Kronberg",
+    "email": "krocon@gmail.com",
+    "url": "www.krocon.de"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "readmeFilename": "README.md",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krocon/node-files-and-folders-server"
+  }
+}
