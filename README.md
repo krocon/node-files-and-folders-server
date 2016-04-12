@@ -1,5 +1,5 @@
 
 # node-files-and-folders-server
 
-coming soon
+See: [files-and-folders](https://www.npmjs.com/package/files-and-folders) 
 
