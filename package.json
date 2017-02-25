@@ -1,6 +1,6 @@
 {
   "name": "files-and-folders-server",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Server Component for File commander (files-and-folders)",
   "keywords": [
     "FnF",
@@ -22,7 +22,7 @@
     "argparse": "^1.0.7",
     "array-flatten": "^2.0.0",
     "arraybuffer.slice": "0.0.6",
-    "async": "^2.0.0-rc.3",
+    "async": "^2.1.5",
     "backo2": "^1.0.2",
     "balanced-match": "^0.4.0",
     "base64-arraybuffer": "^0.1.5",
